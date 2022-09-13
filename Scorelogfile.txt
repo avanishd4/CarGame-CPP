@@ -1,0 +1,7 @@
+Player y  Top Score :8   status :  | Hard |
+Player y  Top Score :1   status :  | Easy |
+Player y  Top Score :1   status :  | Medium |
+Player y  Top Score :1   status :  | Medium |
+Player y  Top Score :1   status :  | Medium |
+Player y  Top Score :1   status :  | Medium |
+Player y  Top Score :4   status :  | Medium |
